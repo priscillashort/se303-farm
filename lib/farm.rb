@@ -3,7 +3,7 @@ class Farm
 
     end
 
-    def verse
+    def verse(_)
 
     end
 end
