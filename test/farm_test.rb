@@ -27,7 +27,6 @@ Old MacDonald had a farm, E-I-E-I-O.]
   end
 
   def test_lyrics_pig
-    skip
     expected =
     %q[Old MacDonald had a farm, E-I-E-I-O,
 And on that farm he had a pig, E-I-E-I-O,

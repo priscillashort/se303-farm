@@ -18,4 +18,8 @@ Here an oink, there an oink, everywhere an oink oink,
 Old MacDonald had a farm, E-I-E-I-O.]
         end
     end
+
+    def lyrics
+
+    end
 end
